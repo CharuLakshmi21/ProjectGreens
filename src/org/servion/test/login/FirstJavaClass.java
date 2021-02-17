@@ -8,5 +8,13 @@ System.out.println("Add is a method");
 		FirstJavaClass x = new FirstJavaClass();
 		x.add();
 	}
+	
+	public void sub() {
+		System.out.println("Sub is a method");
+
+	}
+	
+
+	
 
 }
